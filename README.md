@@ -39,7 +39,7 @@ To get started with this frame work, follow these steps:
 ``` bash
 git clone https://github.com/manishalingala/Cucumber-Harvesting.git
 
-cd Harvesting/
+cd Cucumber-Harvesting/
 
 pip install -e .
 ```
