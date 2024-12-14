@@ -37,7 +37,7 @@ machine learning models and robotic technology.
 To get started with this frame work, follow these steps:
 
 ``` bash
-git clone https://github.com/sainavaneet/Harvesting.git
+git clone https://github.com/manishalingala/Cucumber-Harvesting.git
 
 cd Harvesting/
 
