@@ -38,7 +38,9 @@ To get started with this frame work, follow these steps:
 
 ``` bash
 git clone https://github.com/manishalingla/Harvesting.git
+
 cd Cucumber-Harvesting/
+
 pip install -e .
 ```
 
@@ -97,7 +99,7 @@ pip install -e .
 ``` bash
 source interbotix_ws/devel.setup.bash
 
-cd ~/Harvesting/launch/
+cd ~/Cucumber-Harvesting/launch/
 
 roslaunch robot.launch use_rviz:=false use_sim:=False # if you need in simulation use True
 ```
