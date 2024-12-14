@@ -37,11 +37,8 @@ machine learning models and robotic technology.
 To get started with this frame work, follow these steps:
 
 ``` bash
-<<<<<<< HEAD
 git clone https://github.com/manishalingla/Harvesting.git
 =======
->>>>>>> 
-
 cd Cucumber-Harvesting/
 
 pip install -e .
