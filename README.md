@@ -146,7 +146,7 @@ python harvest.py
 
 ## 🎁 Dataset
 
-**`Dataset can be found in the releases.`**
+**`Data can be found in the releases under "Dataset" tag.`**
 
 ## 🏋️ Results
 
