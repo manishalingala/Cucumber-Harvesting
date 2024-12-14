@@ -40,8 +40,7 @@ To get started with this frame work, follow these steps:
 <<<<<<< HEAD
 git clone https://github.com/manishalingla/Harvesting.git
 =======
-git clone https://github.com/manishalingala/Cucumber-Harvesting.git
->>>>>>> 88378fdff6342e43ceb3626455d371e4226afc57
+>>>>>>> 
 
 cd Cucumber-Harvesting/
 
